@@ -15,7 +15,7 @@ This project trains a traffic-sign classifier on the **German Traffic Sign Recog
 - Presentation slides: https://drive.google.com/drive/folders/1i6l5jL5bQ46xAsmetbvVSEBkz-WLZ1Ez
 - Report: https://drive.google.com/drive/folders/1rF0IqoAqhDJlCV5A78DZwtcG5TPjx9ty
 - Dataset: https://drive.google.com/drive/folders/1fHJuCiBvjKcZ2v0lQarXsgM4GfaqT_qS
-- Demo video: [TBD](REPLACE_WITH_DEMO_VIDEO_LINK)
+- Demo video: https://www.youtube.com/watch?v=IPZow5NnAMQ
 
 ## Recommended way to run (Notebook)
 Open and run `final-project.ipynb`. It contains cells to:
