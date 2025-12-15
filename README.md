@@ -11,10 +11,10 @@ This project trains a traffic-sign classifier on the **German Traffic Sign Recog
 - Explainability via Grad-CAM overlays
 
 ## Project links (placeholders)
-- Pre-recorded presentation video: [TBD](REPLACE_WITH_PRESENTATION_VIDEO_LINK)
-- Presentation slides: [TBD](REPLACE_WITH_SLIDES_LINK)
-- Report: [TBD](REPLACE_WITH_REPORT_LINK)
-- Dataset: [TBD](REPLACE_WITH_DATASET_LINK)
+- Pre-recorded presentation video: https://drive.google.com/drive/folders/1xX9xt8DHLD0jopRsqk1K-PxYZTpx20hL
+- Presentation slides: https://drive.google.com/drive/folders/1i6l5jL5bQ46xAsmetbvVSEBkz-WLZ1Ez
+- Report: https://drive.google.com/drive/folders/1rF0IqoAqhDJlCV5A78DZwtcG5TPjx9ty
+- Dataset: https://drive.google.com/drive/folders/1fHJuCiBvjKcZ2v0lQarXsgM4GfaqT_qS
 - Demo video: [TBD](REPLACE_WITH_DEMO_VIDEO_LINK)
 
 ## Recommended way to run (Notebook)
