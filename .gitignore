@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+.venv
+.envrc
+.DS_Store
+data/
+outputs/
+.checkpoints/
+wandb/
+.data_cache/
+.data/
